@@ -3,3 +3,6 @@ author:
   name: Nicolas Fache
   email: nicolas.fache10@gmail.com
   github: nicolasfache
+
+production_url: https://nicolasfache.github.io/nicolas_fache
+BASE_PATH: https://nicolasfache.github.io/nicolas_fache

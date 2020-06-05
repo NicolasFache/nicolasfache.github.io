@@ -10,9 +10,15 @@
   <style>
   .buttons button {
     background-color: #f28c0f;
+    border: 1px solid orange;
     color: white;
     cursor: pointer;
     float:left;
+  }
+  .buttons:after {
+    content: "";
+    clear: both;
+    display: table;
   }
   .buttons button:not {
     border-right:none;
